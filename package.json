@@ -1,0 +1,19 @@
+{
+  "name": "rist",
+  "version": "1.0.0",
+  "description": "this is where we will document our app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssssss1234a/rist.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ssssss1234a/rist/issues"
+  },
+  "homepage": "https://github.com/ssssss1234a/rist#readme"
+}
